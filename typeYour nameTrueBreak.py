@@ -1,3 +1,4 @@
+# Type your name, done with True and break
 name = ""
 while True:
     print("Please type your name.")
